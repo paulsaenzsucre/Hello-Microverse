@@ -57,7 +57,7 @@ $npx hint .
 
 - Looking for linter errors in CSS | SASS files run:
 ```
-$npx stylelint "\*_/_.{css,scss}"
+$npx stylelint "**/*.{css,scss}"
 ```
 
 -Looking for linter errors in JavaScript files run:
